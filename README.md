@@ -1,5 +1,9 @@
 # PD_TALLER_01
-Taller 1 Programación Distribuida <br />
+Taller 1 Programación Distribuida <br /> <br />
+
+Presentado por: <br />
+<br />
+
 HERIBERTO DAVID YEPES <br />
 ANDRES FELIPE FARFAN <br />
 
